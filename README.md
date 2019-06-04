@@ -10,7 +10,7 @@ This is a messaging channel app created using Javascript and it uses the socket.
 # usage
 Clone this repository and open cmd/terminal
 
-Go to project directory and do
+Go to project_directory/slack and do
 
 npm install
 
